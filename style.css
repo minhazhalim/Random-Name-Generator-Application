@@ -86,12 +86,12 @@ ol {
      word-break: break-all;
      font-size: 1.15rem;
 }
-ol > ul {
+ol ul {
      margin-left: 20px;
      margin-bottom: 10px;
      padding-bottom: 10px;
 }
-ul > li {
+ul li {
      margin-top: 10px;
 }
 .offscreen {
